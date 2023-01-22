@@ -1,5 +1,8 @@
 # Social-Media-Web-App-MERN
 This is a full-stack social media web app built using MERN.
+
+https://postagram.onrender.com/
+
 Functionalities:
 1.   Register
 
