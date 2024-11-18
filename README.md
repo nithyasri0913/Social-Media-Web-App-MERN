@@ -23,5 +23,5 @@ Functionalities:
 6.   Add/Remove friends
 7.   View Profile
 8.   Logout
-
+9.   Real-time notifications for above activities
 <img width="1440" alt="image" src="https://user-images.githubusercontent.com/68632402/213898698-5722416b-9f7a-411c-80e7-0cb0b0b4a0c6.png">
